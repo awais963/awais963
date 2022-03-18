@@ -9,3 +9,6 @@ mughal963/mughal963 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=mughal963)](https://github.com/mughal963/github-profile-trophy)
+
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mughal963&show_icons=true)
