@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963&theme=blue-green)
 
-<a href = "https://github.com/DongamerOfficial/Android-App/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = DongamerOfficial/Android-App"/>
+<a href = "https://github.com/mughal963/DonGamers/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo = mughal963/DonGamers"/>
 </a>
-Made with [contributors-img](https://contrib.rocks).
+
