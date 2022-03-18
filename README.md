@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Android Projects
 - 📫 How to reach me mughal963@gmail.com
 
+<img src="https://komarev.com/ghpvc/?username=mughal963"/>
 <!---
 mughal963/mughal963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963&theme=blue-green)
 
-<img src=https://komarev.com/ghpvc/?username=mughal963 />
+
 
 
