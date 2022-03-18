@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963&theme=blue-green)
 
-<img src=https://komarev.com/ghpvc/?username=mughal963/>
+<img src=https://komarev.com/ghpvc/?username=mughal963 />
 
 
