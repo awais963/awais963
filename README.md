@@ -63,8 +63,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <div>
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963)](https://github.com/mughal963/github-readme-stats)
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=mughal963&theme=dracula)](https://github.com/mughal963/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mughal963&theme=dracula)](https://github.com/mughal963/github-profile-trophy)
   
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mughal963&theme=vue"/>
   </div>
