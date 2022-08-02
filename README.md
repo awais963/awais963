@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963&theme=blue-green)
 
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 Tools
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
