@@ -58,7 +58,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mughal963&show_icons=true)
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963)](https://github.com/mughal963/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mughal963&theme=dracula)](https://github.com/mughal963/github-profile-trophy)
   
