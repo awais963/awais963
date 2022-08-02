@@ -26,3 +26,5 @@ Tools
 <img src=	"https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src=	"https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src=	"https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src=	"https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <img src = "https://activity-graph.herokuapp.com/graph?username=mughal963&theme=minimal"/>
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mughal963&theme=vue"/>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=mughal963"/>
