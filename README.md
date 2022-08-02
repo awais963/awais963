@@ -11,6 +11,9 @@
 </div>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=mughal963&style=flat-square&color=blue" alt="Profile Views"/>
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mughal963.mughal963&left_color=blue&right_color=green)
+  
    <h1>
      Hey There
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
