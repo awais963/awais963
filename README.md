@@ -14,11 +14,7 @@
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=mughal963.mughal963&left_color=blue&right_color=green)
   
-   <h1>
-     Hey There
-     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm Muhammad Awais
-  </h1>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&lines=+Hey+There++I'm+Muhammad+Awais)](https://git.io/typing-svg)
    </div>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
