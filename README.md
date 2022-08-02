@@ -73,6 +73,8 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </div>
   </details>
   
+  ---
+  
   <div align="center">
   <h3>Like My Work</h3>
   <a href="https://www.buymeacoffee.com/mughal963" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
