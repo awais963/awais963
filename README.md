@@ -54,12 +54,15 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 
 <div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mughal963&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mughal963&theme=dark&background=000000)](https://git.io/streak-stats) 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mughal963&show_icons=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963)](https://github.com/mughal963/github-readme-stats)
+  </div>
+  
+  <div>
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963)](https://github.com/mughal963/github-readme-stats)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=mughal963&theme=dracula)](https://github.com/mughal963/github-profile-trophy)
   
