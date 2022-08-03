@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="250"/>
-</div>
+
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/mughal963">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,9 +14,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&lines=+Hey+There++I'm+Muhammad+Awais)](https://git.io/typing-svg)
    </div>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ---
 
@@ -59,17 +55,17 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  
 <div align="center">
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mughal963&theme=dark&background=000000)](https://git.io/streak-stats) 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mughal963&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mughal963&theme=dracula)](https://git.io/streak-stats) 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mughal963&show_icons=true&theme=dracula)
   
   </div>
   
   <div>
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963)](https://github.com/mughal963/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal963&theme=dracula)](https://github.com/mughal963/github-readme-stats)
   [![trophy](https://github-profile-trophy.vercel.app/?username=mughal963&theme=dracula)](https://github.com/mughal963/github-profile-trophy)
   
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mughal963&theme=vue"/>
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mughal963&theme=dracula"/>
   </div>
   </details>
   
