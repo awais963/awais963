@@ -23,7 +23,7 @@
  
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰
 - 💞️ I’m looking to collaborate on Android Projects
-- :telescope: I’m working as a Senior Android Developer and contributing to Android Application for Dongamers Inc.
+- :telescope: 
 - 🌱 I’m currently learning JetPack Compose and Advanced Android Development.
 - :zap: In my free time, I solve problems on HackerRank, try to contribute in Android Open-Source and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mughal963-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mughal963/) [![Gmail Badge](https://img.shields.io/badge/-mughal963@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](#)
