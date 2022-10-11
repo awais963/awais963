@@ -22,7 +22,7 @@
    <summary><h3>:man_technologist:&nbsp;&nbsp;About:&nbsp;Me</h3></summary>
  
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰
-- 💞️ I’m looking to collaborate on Android Projects
+- 💞️ I’m looking to collaborate on Android Projects as well as on Android Open Sources.
 - :telescope: 
 - 🌱 I’m currently learning JetPack Compose and Advanced Android Development.
 - :zap: In my free time, I solve problems on HackerRank, try to contribute in Android Open-Source and read tech articles.
