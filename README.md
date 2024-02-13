@@ -8,10 +8,8 @@
   </a>
 </div>
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=mughal963&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mughal963.mughal963&left_color=blue&right_color=green)
-  
+   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mughal963" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/mughal963?trk=profile-badge">Muhammad Awais</a></div>
+              
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&lines=+Hey+There++I'm+Muhammad+Awais)](https://git.io/typing-svg)
    </div>
 
