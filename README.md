@@ -92,7 +92,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <div align="center">
 
  <h2>💰 You can help me by Donating</h2>
-  <a href="https://www.buymeacoffee.com/awais963" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+  <a href="https://buymeacoffee.com/mughal963" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
   </div>
 
 
